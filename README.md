@@ -1,1 +1,1 @@
-# treasure-project
+# treasure-hunt
